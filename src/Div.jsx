@@ -1,8 +1,10 @@
+import './Div.css'
+
 function Div()
 {
     return(
         <>
-        <div style={{color: "red"}} className="div">json in div</div>
+        <div id='nm' className="div">json in div</div>
         </>
     )
 }

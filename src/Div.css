@@ -1,0 +1,9 @@
+#nm
+{
+    color: blue;
+    border: solid 2px black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1rem;
+    corner-shape: notch  square bevel;
+}
