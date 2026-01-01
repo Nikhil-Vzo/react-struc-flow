@@ -1,9 +1,9 @@
 .ko1, .ko2
 {
     font-size: 4rem;
-    color: aqua;
+    color: #FF2FD7;
     corner-shape: notch  ;
-
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .ok 
