@@ -1,0 +1,16 @@
+.ko1, .ko2
+{
+    font-size: 4rem;
+    color: aqua;
+    border: solid 2px black;
+    display: inline;
+    padding: 10px;
+    corner-shape: notch  ;
+
+}
+
+.ok 
+{
+    border: solid 10px red;
+    display: flex;
+}

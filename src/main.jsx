@@ -4,6 +4,7 @@ import App from './App'
 import Fuck from './Fuck'
 import Div from './Div'
 import Java from './Java'
+import After from './After'
 
 
 
@@ -13,5 +14,6 @@ createRoot(document.getElementById('root')).render(
     <Fuck />
     <Div />
     <Java />
+    <After />
   </StrictMode>,
 )
